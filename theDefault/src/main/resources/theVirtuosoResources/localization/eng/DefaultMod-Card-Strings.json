@@ -56,6 +56,10 @@
   },
   "theVirtuoso:MetalGearSolid": {
     "NAME": "Metal Gear Solid",
-    "DESCRIPTION": "Lose !M! health and gain !theVirtuoso:SecondMagic! plated armor."
+    "DESCRIPTION": "Lose !M! HP and gain !theVirtuoso:SecondMagic! plated armor."
+  },
+  "theVirtuoso:IronBlood": {
+    "NAME": "Iron Blood",
+    "DESCRIPTION": "Lose !M! Block and gain !theVirtuoso:SecondMagic! HP."
   }
 }

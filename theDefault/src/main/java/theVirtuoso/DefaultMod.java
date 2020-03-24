@@ -417,6 +417,7 @@ public class DefaultMod implements
         BaseMod.addCard(new DefaultRarePower());
         // BaseMod.addCard(new Flare());
         BaseMod.addCard(new MetalGearSolid());
+        BaseMod.addCard(new IronBlood());
         
         logger.info("Making sure the cards are unlocked.");
         // Unlock the cards
@@ -436,6 +437,7 @@ public class DefaultMod implements
         UnlockTracker.unlockCard(DefaultRarePower.ID);
         // UnlockTracker.unlockCard(Flare.ID);
         UnlockTracker.unlockCard(MetalGearSolid.ID);
+        UnlockTracker.unlockCard(IronBlood.ID);
         
         logger.info("Done adding cards!");
     }
