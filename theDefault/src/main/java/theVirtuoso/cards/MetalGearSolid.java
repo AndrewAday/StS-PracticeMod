@@ -23,10 +23,10 @@ public class MetalGearSolid extends AbstractDynamicCard {
     private static final int COST = 2;
 
     private static final int SELF_DAMAGE = 10;
-    private static final int UPGRADE_PLUS_SELF_DAMAGE = -3;
+    private static final int UPGRADE_PLUS_SELF_DAMAGE = 0;
 
-    private static final int PLATED_ARMOR = 7;
-    private static final int UPGRADE_PLUS_PLATED_ARMOR = 3;
+    private static final int PLATED_ARMOR = 5;
+    private static final int UPGRADE_PLUS_PLATED_ARMOR = 7;
 
 
     public MetalGearSolid() {
