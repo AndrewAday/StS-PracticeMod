@@ -13,7 +13,7 @@ import static theVirtuoso.DefaultMod.makeCardPath;
 public class MetalGearSolid extends AbstractDynamicCard {
 
     public static final String ID = DefaultMod.makeID(MetalGearSolid.class.getSimpleName());
-    public static final String IMG = makeCardPath("Skill.png");
+    public static final String IMG = makeCardPath("MetalGearSolid.png");
 
     private static final CardRarity RARITY = CardRarity.RARE;
     private static final CardTarget TARGET = CardTarget.SELF;
@@ -26,7 +26,7 @@ public class MetalGearSolid extends AbstractDynamicCard {
     private static final int UPGRADE_PLUS_SELF_DAMAGE = 0;
 
     private static final int PLATED_ARMOR = 5;
-    private static final int UPGRADE_PLUS_PLATED_ARMOR = 7;
+    private static final int UPGRADE_PLUS_PLATED_ARMOR = 2;
 
 
     public MetalGearSolid() {
