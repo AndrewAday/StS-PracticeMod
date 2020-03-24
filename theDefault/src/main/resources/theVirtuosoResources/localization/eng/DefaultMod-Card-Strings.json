@@ -49,5 +49,13 @@
   "theVirtuoso:OrbSkill": {
     "NAME": "Get Orb",
     "DESCRIPTION": "Channel 1 Default Orb."
+  },
+  "theVirtuoso:Flare": {
+    "NAME": "Flare",
+    "DESCRIPTION": "Deal !D! damage and then apply !M! Vulnerable."
+  },
+  "theVirtuoso:MetalGearSolid": {
+    "NAME": "Metal Gear Solid",
+    "DESCRIPTION": "Lose !M! health and gain !theVirtuoso:SecondMagic! plated armor."
   }
 }
